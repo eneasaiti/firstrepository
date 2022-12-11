@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>kush jam une</title>
+</head>
+<body>
+  <h1>Kush jam une</h1>
+  <p>Une quhem<bold>Enea Saiti</bold> jam 15 vjecare dhe jetoj ne qytetin e Kumanoves <italic>RMV,</italic>
+<p>Jam viti i pare ne shkollen e mesme <a href="https://maarifschools.edu.mk/country/1"> <em>"Maarif International Schools"</em></a> ne Shkup,ku lendet i mbaj te gjitha ne gjuhen angleze</p>
+<p>Gjuhen angleze e kam perfeksionuar me ndihmen e kursit <a href="https://englishforlife.mk/"><em>"English for life"</em></a>ne Kumanove nga profesor⁚ Ardian Deari</p>
+<p>Shkollen fillore e kam mbaruar ne shkollen<em>Bajram Shabani</em>gjithashtu ne Kumanove.</p>
+  <p>Studimet universitare do deshiroja ti vazhdoja ne <em>Shtetet e Bashkuara</em>
+  </br>
+  <h3>Hobit e mia</h3>
+  <ol>
+    <li>Leximi</li>
+    <li>Degjimi i muzikes</li>
+    <li>kodimi</li>
+  </ol>
+  <h2>Quote qe me pelqen</h2>
+  <em><italic> If you're happy doing what you're doing,then nobody can tell you you're not successful-Harry Styles</italic></em>
+  <img src="Harry styles.jpg" alt="The quote">
+</body>
+</html>
