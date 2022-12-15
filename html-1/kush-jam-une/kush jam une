@@ -8,7 +8,7 @@
 </head>
 <body>
   <h1>Kush jam une</h1>
-  <p>Une quhem<bold>Enea Saiti</bold> jam 15 vjecare dhe jetoj ne qytetin e Kumanoves <italic>RMV,</italic>
+  <p>Une quhem<em>Enea Saiti</em> jam 15 vjecare dhe jetoj ne qytetin e Kumanoves <i>RMV,</i>
 <p>Jam viti i pare ne shkollen e mesme <a href="https://maarifschools.edu.mk/country/1"> <em>"Maarif International Schools"</em></a> ne Shkup,ku lendet i mbaj te gjitha ne gjuhen angleze</p>
 <p>Gjuhen angleze e kam perfeksionuar me ndihmen e kursit <a href="https://englishforlife.mk/"><em>"English for life"</em></a>ne Kumanove nga profesor⁚ Ardian Deari</p>
 <p>Shkollen fillore e kam mbaruar ne shkollen<em>Bajram Shabani</em>gjithashtu ne Kumanove.</p>
@@ -21,7 +21,7 @@
     <li>kodimi</li>
   </ol>
   <h2>Quote qe me pelqen</h2>
-  <em><italic> If you're happy doing what you're doing,then nobody can tell you you're not successful-Harry Styles</italic></em>
+  <em><i> If you're happy doing what you're doing,then nobody can tell you you're not successful-Harry Styles</i></em>
   <img src="Harry styles.jpg" alt="The quote">
 </body>
 </html>
